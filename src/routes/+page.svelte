@@ -123,7 +123,7 @@
 </div>
 
 <section>
-	<div class="max-w-lg mx-auto p-6 bg-white shadow-lg rounded-lg border-2 border-blue-500 mt-6 mb-6">
+	<div class="max-w-lg mx-auto p-6 bg-white shadow-lg rounded-lg border-2 border-blue-500 mt-6 mb-8">
 
 		<h2 class="text-2xl font-bold mb-4"><strong>Calculate your risk of catching COVID from someone not showing symptoms</strong></h2>
 		
