@@ -6,7 +6,7 @@
 <header>
 	<div class="header with-image-bg">
         <div class="text-column">
-            <h1>Catching COVID</h1>
+            <h1>Quiz: Catching COVID</h1>
             <p class="subhead">During the first year of the COVID-19 pandemic, scientists raced to understand how the virus was being transmitted.</p>
         </div>
 	</div>
