@@ -20,7 +20,7 @@
 				<p>This quiz was adapted from Figure 3 in <a href="https://www.bmj.com/content/370/bmj.m3223#F3" target="_blank">Jones N R, Qureshi Z U, Temple R J, Larwood J P J, Greenhalgh T, Bourouiba L et al. Two metres or one: what is the evidence for physical distancing in covid-19? <em>BMJ</em> 2020;370:m3223</a>.</p>
 				<p>I calculated all the possible valid answer combinations for the quiz — of which there were 72 — and then manually matched each combination with its corresponding risk level — low, medium or high — as given in Figure 3. The two combinations that were marked as borderline cases between low and medium risk have been shown here as low to medium risk.</p>
 				<p>The header image is 'Visualization of the Coronavirus' by Fusion Medical Animation on <a href="https://unsplash.com/photos/visualization-of-the-coronavirus-EAgGqOiDDMg" target="_blank">Unsplash</a>.</p>
-				<p>You can view the code behind this story in the <a href="https://github.com/ZtheTrain/COVID-transmission-risk" target="_blank"> GitHub repository</a>.</p>
+				<p>You can view the data behind the story in this <a href="https://github.com/ZtheTrain/COVID-transmission-risk" target="_blank">GitHub repository</a> and the code behind the quiz in this <a href="https://github.com/ZtheTrain/COVID-risk-app/" target="_blank">GitHub repository</a>.</p>
         	</div>
 		</div>
 	</footer>
